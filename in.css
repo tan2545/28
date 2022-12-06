@@ -1,0 +1,38 @@
+body{
+    font-family: 'Sriracha', cursive;
+}
+#techer{
+    font-size: 30px;
+    color: coral;
+    text-align: center;
+    background-color: pink;
+    padding: 10px;
+}
+#techer1{
+    font-size: 30px;
+    color: rgb(209, 236, 197);
+    text-align: left;
+    background-color: rgb(31, 66, 75);
+    padding: 50px;
+}
+#techer2{
+    font-size: 30px;
+    color: coral;
+    text-align: center;
+    background-color: pink;
+    padding: 10px;
+}
+#techer3{
+    font-size: 30px;
+    color: coral;
+    text-align: center;
+    background-color: pink;
+    padding: 10px;
+}
+#techer4{
+    font-size: 30px;
+    color: coral;
+    text-align: center;
+    background-color: pink;
+    padding: 10px;
+}
