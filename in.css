@@ -17,22 +17,22 @@ body{
 }
 #techer2{
     font-size: 30px;
-    color: coral;
-    text-align: center;
-    background-color: pink;
-    padding: 10px;
+    color: rgb(229, 233, 168);
+    text-align: right;
+    background-color: rgb(68, 158, 109);
+    padding: 50px;
 }
 #techer3{
     font-size: 30px;
     color: coral;
-    text-align: center;
+    text-align:left;
     background-color: pink;
-    padding: 10px;
+    padding: 50px;
 }
 #techer4{
     font-size: 30px;
     color: coral;
-    text-align: center;
+    text-align: right;
     background-color: pink;
-    padding: 10px;
+    padding: 50px;
 }
